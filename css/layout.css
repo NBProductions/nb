@@ -1,5 +1,5 @@
 body {
-  background: #171717 /*url("images/Background.png") no-repeat fixed left top*/;
+  /*background: #171717 url("images/Background.png") no-repeat fixed left top;*/
   background-image: url("images/Background.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
