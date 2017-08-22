@@ -1,5 +1,5 @@
 body {
-  background: #171717 url("images/Background.png") no-repeat fixed center;
+  background: #171717 url("images/Background.png") no-repeat fixed left top;
 }
 h1 {
   color: blue;
